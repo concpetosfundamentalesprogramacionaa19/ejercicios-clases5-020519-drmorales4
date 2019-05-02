@@ -28,4 +28,3 @@ else:
 		else:
 			print ("%s - nota: %d" % ("Insificiente", nota))
 
-
